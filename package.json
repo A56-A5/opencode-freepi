@@ -1,0 +1,9 @@
+{
+  "name": "opencode-freepi",
+  "version": "1.0.0",
+  "description": "Free Pi provider connector for opencode",
+  "private": true,
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.18.18"
+  }
+}
